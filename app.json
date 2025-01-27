@@ -1,5 +1,5 @@
 {
-  "name": "KERM-MD-V1",
+  "name": "JOYBOY●",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Kɢ ᴛᴇᴄʜ",
   "logo": "https://files.catbox.moe/osriwc.jpg",
   "keywords": ["bot"],
@@ -22,7 +22,7 @@
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "HI DEAR IM ONLINE.!!♻️"
+      "value": "HI.!!♻️"
     },
     
     "PREFIX": {
